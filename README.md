@@ -13,6 +13,8 @@ This repository contains my solutions to various Data Structures & Algorithms an
 - AtCoder
 - Codeforces
 - LeetCode
+- Hacker rank
+- geeks for geeks
 
 ## Goals
 
@@ -29,5 +31,4 @@ This repository contains my solutions to various Data Structures & Algorithms an
 | CSES | In Progress |
 | CP31 | In Progress |
 | AtCoder | In Progress |
-| Codeforces | In Progress |
 | LeetCode | In Progress |

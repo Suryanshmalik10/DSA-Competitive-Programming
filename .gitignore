@@ -1,0 +1,42 @@
+# C++ compiled files
+*.bin
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Competitive Programming / CPH
+.cph/
+*.test
+*.input
+*.output
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# CMake / build files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Logs
+*.log
